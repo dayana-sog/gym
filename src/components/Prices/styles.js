@@ -46,6 +46,10 @@ export const Container = styled.section`
     height: auto;
     padding-top: 3rem;
     margin: 10rem;
+
+    @media (max-width: 600px) {
+      margin: 3rem;
+    }
   }
 
   .card {

@@ -28,6 +28,6 @@ export const Container = styled.section`
 
   @media (max-width: 600px) {
     font-size: 60%;
-    padding-top: 23rem;
+    padding: 23rem 0 6rem 0;
   }
 `;
