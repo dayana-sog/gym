@@ -43,13 +43,13 @@ export default function Footer() {
               <div className="menu-span">Contactos</div>
               <li>
                 <FaPhoneAlt size={20} color="#f00" />
-                <a href="tel:218402903" className="space-left">
+                <a href="tel:222222222" className="space-left">
                   222 222 222
                 </a>
               </li>
               <li>
                 <FaWhatsapp size={20} color="#f00" />
-                <a href="tel:351919521653" className="space-left">
+                <a href="tel:000000000000" className="space-left">
                   999 999 999
                 </a>
               </li>
